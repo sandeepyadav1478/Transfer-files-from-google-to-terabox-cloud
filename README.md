@@ -14,11 +14,8 @@
 
  * __Google Photos [Demo Images are uploaded in Goggle Photos process].__
    1. Create Export task of all data you need.
-      ```ruby
-      !pip install internetarchive
-      ```
-   3. Wait for mail from google [ It may take more then 1 day].
-   4. Get the download link from export portal of google.
+   2. Wait for mail from google [ It may take more then 1 day].
+   3. Get the download link from export portal of google.
  
  * __Colab__
    1. Go to this link https://colab.research.google.com/drive/118htDK6HaGQC6fMl3XR8JAP9CdtMPuM3?usp=sharing or <br/> Open the 'Xsfer_gd_to_tera.ipynb' file in colab.
@@ -32,6 +29,12 @@
    3. Now your work is done. close everything you opened up. Terabox will download it on its server and save in storage.
      
      __* *If you get some error in remote upload, then try again. Its terabox server error.*__
+     
+## Colab Installation Examples
+      ```ruby
+      !pip install internetarchive
+      ```
+      Colab running on Unix system.
 
 ## License
 This project is licensed under MIT. Contributions to this project are accepted under the same license.
