@@ -4,12 +4,24 @@
  
  <h5>Thanx to colab i transfered my files from google photos to terabox before june,1st 21</h5> 
  
- ## uoih
+## Requirements
  
- <h3>Requirements</h3>
- <hr>
- <ul>
- <li>Google colab account</li>
- <li>Or you can use python</li>
- <li>Internet archive module</li></ul> 
+ * Google colab account.
+ * Or you can use python.
+ * Internet archive module .
+
+## Usage
+
+ * Google Photos [Demo Images are uploaded in Goggle Photos process].
+  1. Create Export task of all data you need.
+  2. Wait for mail from google [ It may take more then 1 day].
+  3. Get the download link from export portal of google.
  
+ * Colab 
+  1. Go to this link https://colab.research.google.com/drive/118htDK6HaGQC6fMl3XR8JAP9CdtMPuM3?usp=sharing or <br/> Open the 'Xsfer_gd_to_tera.ipynb' file in colab.
+  2. Follow all notes in sequence in colab.
+  3. To check data uploaded there is a node at bottom of this file. Run that code with suitable parameters and you will find title of your uploaded data.
+  4. _*You can leave some nodes as per your requirement.*_
+ 
+ * Terabox [Demo Images are uploaded in terabox process].
+  1. Create a download link as shown in images. *After click on that file it will automatically start downloading.*
