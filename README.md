@@ -25,3 +25,10 @@
  
  * Terabox [Demo Images are uploaded in terabox process].
   1. Create a download link as shown in images. *After click on that file it will automatically start downloading.*
+  2. Copy that link address and add it to remote upload on Terabox. [You can alter download location on terabox.]
+  3. Now your work is done. close everything you opened up. Terabox will download it on its server and save in storage.
+     
+     __* *If you get some error in remote upload, then try again. Its terabox server error.*__
+
+## License
+This project is licensed under MIT. Contributions to this project are accepted under the same license.
