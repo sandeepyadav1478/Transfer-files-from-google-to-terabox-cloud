@@ -32,7 +32,7 @@
      
 ## Colab Installation Examples
    ```ruby
-     !pip install internetarchive
+  !pip install internetarchive
    ```
    Colab running on Unix system.
 
