@@ -31,10 +31,10 @@
      __* *If you get some error in remote upload, then try again. Its terabox server error.*__
      
 ## Colab Installation Examples
-      ```ruby
-      !pip install internetarchive
-      ```
-      Colab running on Unix system.
+   ```ruby
+     !pip install internetarchive
+   ```
+   Colab running on Unix system.
 
 ## License
 This project is licensed under MIT. Contributions to this project are accepted under the same license.
