@@ -30,7 +30,7 @@
      
      __* *If you get some error in remote upload, then try again. Its terabox server error.*__
      
-## Colab Installation Examples
+ ## Colab Installation Examples
    ```ruby
   !pip install internetarchive
    ```
