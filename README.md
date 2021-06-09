@@ -22,7 +22,7 @@
    2. Follow all notes in sequence in `<colab.research.google.com>` colab.
    3. To check data uploaded there is a node at bottom of this file. Run that code with suitable parameters and you will find title of your uploaded data.
    
-   __*You can leave some nodes as per your requirement.*__
+       __*You can leave some nodes as per your requirement.*__
  
  * __Terabox [Demo Images are uploaded in terabox process].__
    1. Create a download link as shown in images. *After click on that file it will automatically start downloading.*
