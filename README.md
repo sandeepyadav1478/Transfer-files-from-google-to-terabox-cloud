@@ -9,3 +9,6 @@
  <h3>Requirements</h3>
  <hr>
  <ul><li>Google colab account</li><li>Or you can use python</li><li>Internet archive module</li></ul> 
+ 
+![GitHub Logo](https://raw.githubusercontent.com/sandeepyadav1478/Transfer-files-from-google-to-terabox-cloud/main/template.png)
+Format: ![Alt Text](url)
