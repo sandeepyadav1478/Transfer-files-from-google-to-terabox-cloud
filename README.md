@@ -14,7 +14,7 @@
 
  * __Google Photos [Demo Images are uploaded in Goggle Photos process].__
    1. Create Export task of all data you need.
-      ```python 
+      ```ruby
       !pip install internetarchive
       ```
    3. Wait for mail from google [ It may take more then 1 day].
