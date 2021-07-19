@@ -17,7 +17,7 @@
    2. Wait for mail from google [ It may take more then 1 day].
    3. Get the download link from export portal of google.
    
-   ****follow demo photos in ascending order**** 
+      __*follow demo photos in ascending order.*__ 
  
  * __Colab__
    1. Go to this link https://colab.research.google.com/drive/118htDK6HaGQC6fMl3XR8JAP9CdtMPuM3?usp=sharing or <br/> Open the 'Xsfer_gd_to_tera.ipynb' file in colab.
