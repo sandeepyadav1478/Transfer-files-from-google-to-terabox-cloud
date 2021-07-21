@@ -47,4 +47,4 @@ This project is licensed under MIT. Contributions to this project are accepted u
 ### -----------
 
 <!-- Place this tag where you want the button to render. -->
-<button name="button" class="github-button" onclick="https://github.com/sandeepyadav1478" data-color-scheme="no-preference: dark; light: light; dark: light;"  data-size="large" aria-label="Follow @sandeepyadav1478 on GitHub">Follow @sandeepyadav1478</button>
+<button name="button" onclick="https://github.com/sandeepyadav1478" data-color-scheme="no-preference: dark; light: light; dark: light;"  data-size="large" aria-label="Follow @sandeepyadav1478 on GitHub">Follow @sandeepyadav1478</button>
