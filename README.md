@@ -47,4 +47,4 @@ This project is licensed under MIT. Contributions to this project are accepted u
 ###
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/fork" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-repo-forked" data-size="large" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a>
+<a class="github-button" href="https://github.com/ntkme" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
