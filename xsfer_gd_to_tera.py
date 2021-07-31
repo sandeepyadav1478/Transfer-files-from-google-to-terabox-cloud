@@ -222,8 +222,8 @@ print(str.decode())
 from internetarchive import get_session
 
 #------ change these parameters as shown in above out field or got this url https://archive.org/account/s3.php after login
-access = 'o92qm7rxdV5g4E1g'
-secret = 'lIZl9SMHfJaXkiFg'
+access = 'xxxxxxxxxxxxxxxx'
+secret = 'xxxxxxxxxxxxxxxx'
 #----------------------------
 
 c = {'s3': {'access': access, 'secret': secret}}
@@ -232,14 +232,14 @@ print(session)
 
 # getting identifier for upload on ia
 from internetarchive import get_item
-cool_podcast = get_item('my_folder_007') #this identifier is important, you need to init identifier before upload
+cool_podcast = get_item('my_007') #this identifier is important, you need to init identifier before upload
 print(cool_podcast.metadata)
 upload_data = ['/content/KOTL/out'] # its an list of files or folders
 # like the example given below, it will gonna upload every file available in that folder
 
 # metadata of files we want to upload
 
-md = {'title': 'Intellectual Property, and Other Legal Concerns" by Me (2016) - my_folder_007',
+md = {'title': 'Intellectual Property, and Other Legal Concerns" by Me (2016) - my_007',
       'mediatype': 'data',
       'collection': 'opensource_media',
       'date': '2021-06-01',
@@ -256,6 +256,6 @@ cool_podcast.upload(upload_data, metadata=md, verbose=True)
 
 #checking files uploaded on ia
 from internetarchive import search_items
-for item in search_items('identifier:hcs_keeper_007').iter_as_items():
+for item in search_items('identifier:hcs_007').iter_as_items():
   print(item.metadata['title'])
 
