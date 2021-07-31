@@ -1,5 +1,4 @@
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 # Transfer-files-from-google-to-terabox-cloud
 
  ![GitHub Logo](https://raw.githubusercontent.com/sandeepyadav1478/Transfer-files-from-google-to-terabox-cloud/main/template.png)
